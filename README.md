@@ -69,5 +69,3 @@ SVD (`TruncatedSVD`, 50 latent factors) recovers collaborative patterns from the
 pip install pandas numpy scikit-learn scipy matplotlib seaborn jupyter
 jupyter notebook recommender.ipynb
 ```
-
-Run all cells top-to-bottom (`Kernel → Restart & Run All`).
